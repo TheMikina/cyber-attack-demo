@@ -1,1 +1,4 @@
-print("Hello, world!")
+import tkimter as tk
+
+root = tk.Tk()
+root.mainloop()
